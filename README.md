@@ -1,4 +1,4 @@
-- #👋 Hi, I’m Srikanth  
+- # 👋 Hi, I’m Srikanth  
 
 - 💼 **QA Automation Engineer** with hands-on experience in Web, API, and Windows automation.  
 - 👀 Passionate about building scalable, maintainable, and reusable **test automation frameworks**.  
